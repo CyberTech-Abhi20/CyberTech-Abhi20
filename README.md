@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on $#%@#$%@#$$%**&&&
 
-- 🌱 I’m currently learning *Spring, Dsa*
+- 🌱 I’m currently learning *BCA, *
 
 - 👯 I’m looking to collaborate on *MS*
 
@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@abhibalas_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhibalas_30" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Abhi Balaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhishek Balaskar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-balaskar-955b37211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhishek Balaskar" height="30" width="40" /></a>
 <a href="https://instagram.com/abhibalas_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhibalas_13" height="30" width="40" /></a>
 </p>
 
