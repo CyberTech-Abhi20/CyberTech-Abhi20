@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://CyberTech-Abhi20.io)
 <h1 align="center">Hi 👋, I'm Abhishek Balaskar </h1>
-<h3 align="center">A passionate as developer from India</h3>
+<h3 align="center"> An Information Security Enthusiast from India</h3>
 <img align="center" alt="Hacker" width"400" src="https://c.tenor.com/esCBwJ7Tq4UAAAAC/pc-hack.gif">
 <img align="right" alt="walk" width"10" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
 
@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/@abhibalas_30" target="blank"><img src="https://img.shields.io/twitter/follow/@abhibalas_30?logo=twitter&style=for-the-badge" alt="@abhibalas_30" /></a> </p>
 
-- 🔭 I’m currently working on $#%@#$%@#$$%**&&&
+- 🔭 I’m currently working on IOT(Internet of Things & IO Security )
 
-- 🌱 I’m currently learning *BCA, *
+- 🌱 I’m currently learning * BCA *
 
 - 👯 I’m looking to collaborate on *MS*
 
