@@ -12,11 +12,9 @@
 
 - 🔭 I’m currently working on IOT(Internet of Things & IO Security )
 
-- 🌱 I’m currently learning * BCA *
+- 🌱 I’m currently learning * MCA *
 
 - 👯 I’m looking to collaborate on *MS*
-
-- 🤝 I’m looking for help with *Handry*
 
 - 👨‍💻 All of my projects are available at [CyberTech-Abhi20](CyberTech-Abhi20)
 
